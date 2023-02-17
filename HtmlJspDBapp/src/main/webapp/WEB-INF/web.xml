@@ -7,7 +7,7 @@
   	<jsp-file>/WEB-INF/pages/employee_process.jsp</jsp-file>
   	<init-param>
   		<param-name>url</param-name>
-  		<param-value>jdbc:mysql:///practice1</param-value>
+  		<param-value>jdbc:mysql:///practise1</param-value>
   	</init-param>
   	<init-param>
   		<param-name>user</param-name>
